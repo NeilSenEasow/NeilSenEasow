@@ -14,6 +14,8 @@
 
 Let's connect and create something awesome together! 🚀
 
+[![neilseneasow's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilseneasow)](https://github.com/neilseneasow/github-readme-stats)
+
 
 <!---
 NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
