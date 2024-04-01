@@ -4,7 +4,6 @@
 
 ### Hi there 👋, my name is Neil Sen Easow
 #### I am an aspiring game developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C# / Java / C / Python
 
