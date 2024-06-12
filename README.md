@@ -25,6 +25,9 @@ Skills: C# / Java / C / Python
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neilseneasow&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!---
 NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
