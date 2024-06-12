@@ -17,16 +17,15 @@ Skills: C# / Java / C / Python
 [![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeilSenEasow)
 <br><br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=NeilSenEasow)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
 
 ## 🧰 &nbsp;Github stats
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neilseneasow&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 <!---
