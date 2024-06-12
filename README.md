@@ -1,9 +1,6 @@
+<h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
+<h2 align="center">I am an aspiring game developer</h2>
 
-
-[![neilseneasow's GitHub stats](https://github-readme-stats.vercel.app/api?username=neilseneasow)](https://github.com/neilseneasow/github-readme-stats)
-
-### Hi there 👋, my name is Neil Sen Easow
-#### I am an aspiring game developer
 
 Skills: C# / Java / C / Python
 
@@ -15,21 +12,19 @@ Skills: C# / Java / C / Python
 - 📫 How to reach me: neilseneasow@gmail.com 
 - 😄 Pronouns: He/Him
 
- 🌟 Let's connect and create something awesome together! 🚀
+<h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeilSenEasow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neil-sen-easow-973606258//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftacademic.svg' alt='microsoftacademic' height='40'>](https://learn.microsoft.com/en-us/users/neilseneasow-0548/)  
-
+[![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeilSenEasow)
+<br><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilSenEasow)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeilSenEasow)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeilSenEasow&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=NeilSenEasow)  
-
-
-
+## 🧰 &nbsp;Github stats
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=neilseneasow&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 <!---
 NeilSenEasow/NeilSenEasow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
