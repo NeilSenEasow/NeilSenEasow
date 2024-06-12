@@ -4,7 +4,7 @@
 
 Skills: C# / Java / C / Python
 
-- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Website Development.
+- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Web Development.
 - 🔭 I’m currently working on honing my skills in game development and web development  
 - 🌱 I’m currently learning game and website development 
 - 🤔 I’m looking for help with JS/React/Vue/C++
