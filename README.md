@@ -12,6 +12,8 @@ Skills: C# / Java / C / Python
 - 📫 How to reach me: neilseneasow@gmail.com 
 - 😄 Pronouns: He/Him
 
+<hr />
+
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
 [![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
