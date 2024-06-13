@@ -16,7 +16,8 @@ Skills: C# / Java / C / Python
 
 [![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeilSenEasow)
-<br><br/>
+<hr />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  
