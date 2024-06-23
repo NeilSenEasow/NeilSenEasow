@@ -2,8 +2,6 @@
 <h2 align="center">I am an aspiring game developer</h2>
 
 
-Skills: C# / Java / C / Python
-
 - 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Web Development.
 - 🔭 I’m currently working on honing my skills in game development and web development  
 - 🌱 I’m currently learning game and website development 
@@ -22,7 +20,24 @@ Skills: C# / Java / C / Python
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
- 
+
+## 💬Languages and Frameworks
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet" />
+  </a>
+</p>
+
+## Software stack
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows" />
+  </a>
+</p>
+
+          
+          
+          
 
 ## 🧰 &nbsp;Github stats
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
