@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
-<h2 align="center">I am an aspiring game developer</h2>
+<h2 align="center">I am an aspiring game & web developer</h2>
 
 
 - 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Web Development.
