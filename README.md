@@ -18,20 +18,19 @@
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeilSenEasow)
 <hr />
 
-<div align="center">
- 
-   ## 🏆 GitHub Trophies
-   ![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align = "center" >
    ## 💬Languages and Frameworks
-    <p align="center">
+   <p align="center">
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet" />
      </a>
    </p>
    
    ## Software stack
-    <p align="center">
+   <p align="center">
      <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows" />
      </a>
@@ -46,6 +45,7 @@
    ![](https://github-readme-streak-stats.herokuapp.com/?user=neilseneasow&theme=radical&hide_border=false)<br/>
    ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/username=neilseneasow&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
+<div />
 <div />
 
 <!---
