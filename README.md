@@ -26,14 +26,14 @@
    ## Language Stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet" />
+       <img src="https://skillicons.dev/icons?i=c,py,java,cs,html,css,dotnet,bootstrap,express,js,ts,jquery,mysql,npm" />
      </a>
    </p>
    
    ## Software stack
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows" />
+       <img src="https://skillicons.dev/icons?i=git,github,ubuntu,linux,unity,vscode,windows,figma,postman" />
      </a>
    </p>
    
