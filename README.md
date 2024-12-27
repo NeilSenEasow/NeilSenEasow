@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
 <h2 align="center">I am an aspiring game & web developer</h2>
 
-<hr />
-
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
 
 [![Linkedin: Neil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neil-sen-easow-973606258/)
