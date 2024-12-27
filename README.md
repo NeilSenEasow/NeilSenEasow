@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
+<h1 align="center">Hi there 👋, I am Neil Sen Easow</h1>
 <h2 align="center">I am an aspiring game & web developer</h2>
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
