@@ -1,15 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Neil Sen Easow</h1>
 <h2 align="center">I am an aspiring game & web developer</h2>
 
-
-- 👀 I'm a BTech student at Amal Jyothi College of Engineering passionate about Game Development and Web Development.
-- 🔭 I’m currently working on honing my skills in game development and web development  
-- 🌱 I’m currently learning game and website development 
-- 🤔 I’m looking for help with JS/React/Vue/C++
-- 💞️ Open to collaborating on interesting projects related to game development & web development. If you have any ideas or opportunities, feel free to reach out!
-- 📫 How to reach me: neilseneasow@gmail.com 
-- 😄 Pronouns: He/Him
-
 <hr />
 
 <h3> 🌟 Let's connect and create something awesome together! 🚀 </h3>
