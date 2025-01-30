@@ -28,7 +28,7 @@ I specialize in **React.js, Next.js, MongoDB, Express.js, and Node.js** for full
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/c975074d-c1b5-4ae0-8f2a-116a4b0db632.svg)](https://wakatime.com/@c975074d-c1b5-4ae0-8f2a-116a4b0db632)
+<a href="https://wakatime.com/@c975074d-c1b5-4ae0-8f2a-116a4b0db632"><img src="https://wakatime.com/badge/user/c975074d-c1b5-4ae0-8f2a-116a4b0db632.svg" alt="Total time coded since Jul 4 2024" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neilseneasow&theme=radical&no-frame=false&no-bg=true&margin-w=4)
